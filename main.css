@@ -1,0 +1,145 @@
+/* Deafult */
+html{
+    background-color: #97dfeb;
+}
+
+p{
+    font-family: "Playpen Sans", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#wallpaper{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+#selected{
+    position: absolute;
+    bottom: 0;
+    left: 820px;
+    font-weight: 500;
+    font-size: 60;
+}
+
+.website{
+    cursor: pointer;
+}
+
+/* Season1 */
+#season1{
+    scale: 1;
+    transition: 0.5s;
+    position: absolute;
+    left: 200px;
+    top: 150px;
+}
+#season1:hover{
+    transition: 0.5s;
+    scale: 1.5;
+    cursor: pointer;
+}
+
+#S1{
+    transition: 0.5s;
+    position: absolute;
+    left: 265px;
+    top: 100px;
+}
+
+/* Season 2 */
+#season2{
+    scale: 1;
+    transition: 0.5s;
+    position: absolute;
+    left: 425px;
+    top: 150px;
+}
+#season2:hover{
+    transition: 0.5s;
+    scale: 1.35;
+    cursor: pointer;
+}
+#S2{
+    transition: 0.5s;
+    position: absolute;
+    left: 500px;
+    top: 100px;
+}
+/* Season 3 */
+#season3{
+    scale: 1;
+    transition: 0.5s;
+    position: absolute;
+    left: 675px;
+    top: 150px;
+}
+#season3:hover{
+    transition: 0.5s;
+    scale: 1.35;
+    cursor: pointer;
+}
+#S3{
+    transition: 0.5s;
+    position: absolute;
+    left: 765px;
+    top: 100px;
+}
+/* Season 4 */
+#season4{
+    scale: 1;
+    transition: 0.5s;
+    position: absolute;
+    left: 965px;
+    top: 145px;
+}
+#season4:hover{
+    transition: 0.5s;
+    scale: 1.35;
+    cursor: pointer;
+}
+#S4{
+    transition: 0.5s;
+    position: absolute;
+    left: 1010px;
+    top: 100px;
+}
+/* Season 5 */
+#season5{
+    scale: 1;
+    transition: 0.5s;
+    position: absolute;
+    left: 1180px;
+    top: 145px;
+}
+#season5:hover{
+    transition: 0.5s;
+    scale: 1.35;
+    cursor: pointer;
+}
+#S5{
+    transition: 0.5s;
+    position: absolute;
+    left: 1230px;
+    top: 100px;
+}
+/* Season 6 */
+#season6{
+    scale: 1;
+    transition: 0.5s;
+    position: absolute;
+    left: 1460px;
+    top: 145px;
+}
+#season6:hover{
+    transition: 0.5s;
+    scale: 1.35;
+    cursor: pointer;
+}
+#S6{
+    transition: 0.5s;
+    position: absolute;
+    left: 1515px;
+    top: 100px;
+}
