@@ -1,0 +1,5 @@
+"scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+}
+"homepage": "https://sko4ec.github.io/gumball-random/"
